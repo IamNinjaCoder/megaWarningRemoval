@@ -4,7 +4,15 @@
 // @version      1.0
 // @description  Remove MEGA notifications and dialog
 // @author       IamNinjaCoder
-// @match        *://*/*
+// @match        http://mega.co.nz/*
+// @match        http://mega.io/*
+// @match        http://mega.is/*
+// @match        http://mega.nz/*
+// @match        https://mega.co.nz/*
+// @match        https://mega.io/*
+// @match        https://mega.is/*
+// @match        https://mega.nz/*
+// @icon         https://mega.nz/favicon.ico?v=3
 // @grant        none
 // ==/UserScript==
 
